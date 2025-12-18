@@ -1,4 +1,3 @@
-````md
 # 🧠 Concurrency
 
 > **Concurrency = doing multiple things at the same time (or appearing to).**  
@@ -9,7 +8,7 @@
 ## 1️⃣ Why Concurrency Exists (Reality Check)
 
 ### ❌ Sequential programs are dumbly slow
-```text
+
 Task A → Task B → Task C → Done
 ````
 
